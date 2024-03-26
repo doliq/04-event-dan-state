@@ -26,3 +26,6 @@ Langkah 2
 
 Langkah 1 - Propagation
 ![Screenshot](assets-report/05.png)
+
+Langkah 2 - Stop Propagation
+![Screenshot](assets-report/06.png)
