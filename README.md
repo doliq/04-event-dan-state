@@ -22,10 +22,15 @@ Langkah 2
 
 ![Screenshot](assets-report/04.png)
 
-### Praktikum 3 : Event Handler
+### Praktikum 3
 
 Langkah 1 - Propagation
 ![Screenshot](assets-report/05.png)
 
 Langkah 2 - Stop Propagation
 ![Screenshot](assets-report/06.png)
+
+### Praktikum 4
+
+Langkah 1
+![Screenshot](assets-report/07.png)
