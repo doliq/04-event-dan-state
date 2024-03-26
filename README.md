@@ -17,3 +17,12 @@ Langkah 2
 ![Screenshot](assets-report/02.png)
 
 ![Screenshot](assets-report/03.png)
+
+### Praktikum 2
+
+![Screenshot](assets-report/04.png)
+
+### Praktikum 3 : Event Handler
+
+Langkah 1 - Propagation
+![Screenshot](assets-report/05.png)
